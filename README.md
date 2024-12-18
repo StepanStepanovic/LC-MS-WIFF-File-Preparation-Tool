@@ -13,6 +13,7 @@ This repository contains a C++ program designed to streamline the conversion of 
 - Input files:
   - `compound_info.txt`: List of compounds with their names and formulas.
   - `sample_info.txt`: Text containing pasted sample information (obtained via *Show -> Sample Information* in PeakView).
+![PeakView](img/Picture1.png)
 
 ## Usage
 1. Place your `compound_info.txt` and `sample_info.txt` in the working directory.
