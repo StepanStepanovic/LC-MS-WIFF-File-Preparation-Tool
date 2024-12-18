@@ -12,13 +12,16 @@ This repository contains a C++ program designed to streamline the conversion of 
 - **PeakView** with the *MassBank Files* extension.
 - Input files:
   - `compound_info.txt`: List of compounds with their names and formulas.
-  - `sample_info.txt`: Text containing pasted sample information (obtained via *Show -> Sample Information* in PeakView).
+  - `sample_info.txt`: Text containing pasted sample information (obtained via *Show -> Sample Information* in SciexOS).
+    
 ![PeakView](img/Picture2.png)
 
 ## Usage
 1. Place your `compound_info.txt` and `sample_info.txt` in the working directory.
 2. Run the program to generate the required experiment list input file.
+
 ![SciexOS](img/Picture1.png)
+
 4. Use the output file in PeakView to convert WIFF/WIFF2 spectra to MassBank files.
 
 ## Installation
