@@ -13,6 +13,7 @@ This repository contains a C++ program designed to streamline the conversion of 
 - Input files:
   - `compound_info.txt`: List of compounds with their names and formulas.
   - `sample_info.txt`: Text containing pasted sample information (obtained via *Show -> Sample Information* in SciexOS).
+  Example of both files are provided in folder `example_files`.
     
 ![PeakView](img/Picture2.png)
 
