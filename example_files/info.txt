@@ -1,0 +1,592 @@
+Sample Information
+Data File Properties
+Original data file name: MS24GE_20230323_RGIR_A020 
+Original data file path: D:\MS24GE-RGIR\Pesticides analysis 2\Data\20230323\MS24GE_20230323_RGIR_A020.wiff2 
+Original computer name: DESKTOP-EP65FUP 
+Software generated data file: SCIEX OS 3.0.0.2622 
+Service version: ClearCore2.Service 3.0.0 
+
+Device Properties
+ Device Model Firmware Version Serial Number 
+MassSpectrometer ZenoTOF™ 7600 System AION_QTOF_ICX Version: 0 04 (0 04) FB22352110 
+IntegratedSystem Shimadzu Nexera Prominence LC Quaternary Gradient - LC-30AD - 3.00, System Controller - CBM-20Alite - 2.40 Quaternary Gradient - LC-30AD - L20554970756, System Controller - CBM-20Alite - L20225116325 
+
+Batch File Properties
+Batch file name: Batch MRM HR Combined and CID alone 
+Batch file path: D:\MS24GE-RGIR\Pesticides analysis 2 
+
+MS Method File Properties
+File name: MRM HR 1 CID EAD UVPD 96 compounds Zeno ON 
+File path: D:\MS24GE-RGIR\Pesticides analysis 2 
+File locked: False 
+File last modified date: 3/23/2023 4:06:11 PM 
+
+LC Method File Properties
+File name: LC 2 25 min gradient 
+File path: D:\MS24GE-RGIR\Pesticides analysis 2 
+File locked: False 
+File last modified date: 2/14/2023 10:02:44 AM 
+
+Sample Properties
+Sample number in data file: 1 
+Type of acquisition: Batch 
+Sample completion state: Passed 
+Sample created at: 3/24/2023 12:49:00 AM 
+Sample last updated at: 3/24/2023 1:15:26 AM 
+Submitted by user: DESKTOP-EP65FUP\giraud 
+Sample name: iDquant MRM HR EAD CID UVPD 96 compounds Zeno ON 
+Sample ID:  
+Barcode ID:  
+Scanned Barcode ID:  
+Actual Injection Volume: N/A 
+Rack code:  
+Rack position:  
+Plate code:  
+Plate position:  
+Vial position:  
+Comments:  
+
+Quantitation Properties
+Sample Type: Unknown 
+Dilution Factor: 1 
+Weight/Volume: 0 
+Analyte concentrations 
+
+Sample Info
+External Device Properties
+General
+Contact Closure: True 
+Calibrant Delivery System: True 
+
+Method Parameters
+General
+Workflow: Small molecules (or other 1± analytes) 
+Intact protein mode: False 
+Method duration (minutes): 25 
+Actual method duration (minutes): 26.36 
+
+Ion Source
+Source name: TurboIonSpray 
+Curtain gas: 35 
+CAD gas: 7 
+Ion source gas 1 (psi): 20 
+Ion source gas 2 (psi): 20 
+Temperature (°C): 300 
+
+Experiment 1-289
+Scan type: MRMhr 
+Polarity: Positive 
+Spray voltage (V): 5500 
+TOFMS:  
+TOF start mass (Da): 50 
+TOF stop mass (Da): 1000 
+Accumulation time (s): 0.1 
+Declustering potential (V): 80 
+Declustering potential spread (V): 0 
+Collision energy (V): 10 
+Collision energy spread (V): 0 
+Time bins to sum: 4 
+Channel 1: True 
+Channel 2: True 
+Channel 3: True 
+Channel 4: True 
+Override QJet RF value: False 
+QJet RF amplitude (V): 183.248399396665 
+TOFMSMS:  
+Q1 resolution: Unit 
+Electron beam current (nA): 3500 
+Zeno pulsing: True 
+Zeno threshold (cps): 20000 
+Override QJet RF value: False 
+QJet RF amplitude (V): 202.72 
+Compound ID Group Name Precursor Ion TOF Start Mass TOF Stop Mass Accumulation Time DP CE CE Spread Fragmentation mode Electron KE ETC Retention Time Retention Time Tolerance Time Bins to Sum Channel 1 Channel 2 Channel 3 Channel 4 Reaction time EAD RF 
+Methamidophos EAD Group 1 142 50 160 0.06 80 10 0 EAD 18 100 2.61 8 4 True True True True 20 150 
+Methamidophos CID Group 1 142 50 160 0.015 80 35 20 CID 18 100 2.61 8 4 True True True True 20 150 
+Methamidophos UVPD Group 1 142 50 160 0.06 80 10 0 UVPD simultaneous trapping 0 0 2.61 8 4 True True True True 20 150 
+Cyromazine CID Group 1 167.1 50 190 0.015 80 35 20 CID 0 0 5.42 8 4 True True True True 20 150 
+Cyromazine EAD Group 1 167.1 50 190 0.06 80 10 0 EAD 18 100 5.42 8 4 True True True True 20 150 
+Cyromazine UVPD Group 1 167.1 50 190 0.06 80 10 0 UVPD simultaneous trapping 0 0 5.42 8 4 True True True True 20 150 
+Omethoate CID Group 1 214 50 230 0.015 80 35 20 CID 0 0 5.61 8 4 True True True True 20 150 
+Omethoate EAD Group 1 214 50 230 0.06 80 10 0 EAD 18 100 5.61 8 4 True True True True 20 150 
+Omethoate UVPD Group 1 214 50 230 0.06 80 10 0 UVPD simultaneous trapping 0 0 5.61 8 4 True True True True 20 150 
+Aldicarb sulfoxide CID Group 1 207.1 50 220 0.015 80 35 20 CID 0 0 6.25 6 4 True True True True 20 150 
+Aldicarb sulfoxide EAD Group 1 207.1 50 220 0.06 80 10 0 EAD 18 100 6.25 6 4 True True True True 20 150 
+Aldicarb sulfoxide UVPD Group 1 207.1 50 220 0.06 80 10 0 UVPD simultaneous trapping 0 0 6.25 6 4 True True True True 20 150 
+Dinotefuran CID Group 1 203.1 50 220 0.015 80 35 20 CID 0 0 6.28 8 4 True True True True 20 150 
+Dinotefuran EAD Group 1 203.1 50 220 0.06 80 10 0 EAD 18 100 6.28 8 4 True True True True 20 150 
+Dinotefuran UVPD Group 1 203.1 50 220 0.06 80 10 0 UVPD simultaneous trapping 0 0 6.28 8 4 True True True True 20 150 
+Propamocarb CID Group 1 189.2 50 200 0.015 80 35 20 CID 0 0 6.3 8 4 True True True True 20 150 
+Propamocarb EAD Group 1 189.2 50 200 0.06 80 10 0 EAD 18 100 6.3 8 4 True True True True 20 150 
+Propamocarb UVPD Group 1 189.2 50 200 0.06 80 10 0 UVPD simultaneous trapping 0 0 6.3 8 4 True True True True 20 150 
+Mesotrione CID Group 1 340 50 360 0.015 80 35 20 CID 0 0 6.48 6 4 True True True True 20 150 
+Mesotrione EAD Group 1 340 50 360 0.06 80 10 0 EAD 18 100 6.48 6 4 True True True True 20 150 
+Mesotrione UVPD Group 1 340 50 360 0.06 80 10 0 UVPD simultaneous trapping 0 0 6.48 6 4 True True True True 20 150 
+Aldicarb sulfone CID Group 1 223.1 50 240 0.015 80 35 20 CID 0 0 6.7 8 4 True True True True 20 150 
+Aldicarb sulfone EAD Group 1 223.1 50 240 0.06 80 10 0 EAD 18 100 6.7 8 4 True True True True 20 150 
+Aldicarb sulfone UVPD Group 1 223.1 50 240 0.06 80 10 0 UVPD simultaneous trapping 0 0 6.7 8 4 True True True True 20 150 
+Formetanate HCL CID Group 1 258.1 50 270 0.015 80 35 20 CID 0 0 6.94 8 4 True True True True 20 150 
+Formetanate HCL EAD Group 1 258.1 50 270 0.06 80 10 0 EAD 18 100 6.94 8 4 True True True True 20 150 
+Formetanate HCL UVPD Group 1 258.1 50 270 0.06 80 10 0 UVPD simultaneous trapping 0 0 6.94 8 4 True True True True 20 150 
+Nitenpyram CID Group 1 271.1 50 290 0.015 80 35 20 CID 0 0 6.99 8 4 True True True True 20 150 
+Nitenpyram EAD Group 1 271.1 50 290 0.06 80 10 0 EAD 18 100 6.99 8 4 True True True True 20 150 
+Nitenpyram UVPD Group 1 271.1 50 290 0.06 80 10 0 UVPD simultaneous trapping 0 0 6.99 8 4 True True True True 20 150 
+Methomyl CID Group 1 163.1 50 180 0.015 80 35 20 CID 0 0 7.32 8 4 True True True True 20 150 
+Methomyl EAD Group 1 163.1 50 180 0.06 80 10 0 EAD 18 100 7.32 8 4 True True True True 20 150 
+Methomyl UVPD Group 1 163.1 50 180 0.06 80 10 0 UVPD simultaneous trapping 0 0 7.32 8 4 True True True True 20 150 
+Flonicamid CID Group 1 230.1 50 250 0.015 80 35 20 CID 0 0 7.42 8 4 True True True True 20 150 
+Flonicamid EAD Group 1 230.1 50 250 0.06 80 10 0 EAD 18 100 7.42 8 4 True True True True 20 150 
+Flonicamid UVPD Group 1 230.1 50 250 0.06 80 10 0 UVPD simultaneous trapping 0 0 7.42 8 4 True True True True 20 150 
+Thiamethoxam CID Group 1 292 50 310 0.015 80 35 20 CID 0 0 7.71 8 4 True True True True 20 150 
+Thiamethoxam EAD Group 1 292 50 310 0.06 80 10 0 EAD 18 100 7.71 8 4 True True True True 20 150 
+Thiamethoxam UVPD Group 1 292 50 310 0.06 80 10 0 UVPD simultaneous trapping 0 0 7.71 8 4 True True True True 20 150 
+Pymetrozine CID Group 1 218.1 50 240 0.015 80 35 20 CID 0 0 7.81 8 4 True True True True 20 150 
+Pymetrozine EAD Group 1 218.1 50 240 0.06 80 10 0 EAD 18 100 7.81 8 4 True True True True 20 150 
+Pymetrozine UVPD Group 1 218.1 50 240 0.06 80 10 0 UVPD simultaneous trapping 0 0 7.81 8 4 True True True True 20 150 
+Monocrotophos CID Group 1 224.1 50 250 0.015 80 35 20 CID 0 0 8.07 8 4 True True True True 20 150 
+Monocrotophos EAD Group 1 224.1 50 250 0.06 80 10 0 EAD 18 100 8.07 8 4 True True True True 20 150 
+Monocrotophos UVPD Group 1 224.1 50 250 0.06 80 10 0 UVPD simultaneous trapping 0 0 8.07 8 4 True True True True 20 150 
+Dicrotophos CID Group 1 238.1 50 250 0.015 80 35 20 CID 0 0 8.49 8 4 True True True True 20 150 
+Dicrotophos EAD Group 1 238.1 50 250 0.06 80 10 0 EAD 18 100 8.49 8 4 True True True True 20 150 
+Dicrotophos UVPD Group 1 238.1 50 250 0.06 80 10 0 UVPD simultaneous trapping 0 0 8.49 8 4 True True True True 20 150 
+Imidacloprid CID Group 1 256.1 50 280 0.015 80 35 20 CID 0 0 8.81 8 4 True True True True 20 150 
+Imidacloprid EAD Group 1 256.1 50 280 0.06 80 10 0 EAD 18 100 8.81 8 4 True True True True 20 150 
+Imidacloprid UVPD Group 1 256.1 50 280 0.06 80 10 0 UVPD simultaneous trapping 0 0 8.81 8 4 True True True True 20 150 
+Clothianidin CID Group 1 250 50 270 0.015 80 35 20 CID 0 0 8.92 8 4 True True True True 20 150 
+Clothianidin EAD Group 1 250 50 270 0.06 80 10 0 EAD 18 100 8.92 8 4 True True True True 20 150 
+Clothianidin UVPD Group 1 250 50 270 0.06 80 10 0 UVPD simultaneous trapping 0 0 8.92 8 4 True True True True 20 150 
+Fenuron CID Group 1 165.1 50 190 0.015 80 35 20 CID 0 0 9.05 8 4 True True True True 20 150 
+Fenuron EAD Group 1 165.1 50 190 0.06 80 10 0 EAD 18 100 9.05 8 4 True True True True 20 150 
+Fenuron UVPD Group 1 165.1 50 190 0.06 80 10 0 UVPD simultaneous trapping 0 0 9.05 8 4 True True True True 20 150 
+Dioxacarb CID Group 1 224.1 50 250 0.015 80 35 20 CID 0 0 9.35 8 4 True True True True 20 150 
+Dioxacarb EAD Group 1 224.1 50 250 0.06 80 10 0 EAD 18 100 9.35 8 4 True True True True 20 150 
+Dioxacarb UVPD Group 1 224.1 50 250 0.06 80 10 0 UVPD simultaneous trapping 0 0 9.35 8 4 True True True True 20 150 
+Dimethoate CID Group 1 230 50 250 0.015 80 35 20 CID 0 0 9.37 8 4 True True True True 20 150 
+Dimethoate EAD Group 1 230 50 250 0.06 80 10 0 EAD 18 100 9.37 8 4 True True True True 20 150 
+Dimethoate UVPD Group 1 230 50 250 0.06 80 10 0 UVPD simultaneous trapping 0 0 9.37 8 4 True True True True 20 150 
+Oxamyl CID Group 1 220.1 50 240 0.015 80 35 20 CID 0 0 9.45 8 4 True True True True 20 150 
+Oxamyl EAD Group 1 220.1 50 240 0.06 80 10 0 EAD 18 100 9.45 8 4 True True True True 20 150 
+Oxamyl UVPD Group 1 220.1 50 240 0.06 80 10 0 UVPD simultaneous trapping 0 0 9.45 8 4 True True True True 20 150 
+Acetamiprid CID Group 1 223.1 50 250 0.015 80 35 20 CID 0 0 9.49 8 4 True True True True 20 150 
+Acetamiprid EAD Group 1 223.1 50 250 0.06 80 10 0 EAD 18 100 9.49 8 4 True True True True 20 150 
+Acetamiprid UVPD Group 1 223.1 50 250 0.06 80 10 0 UVPD simultaneous trapping 0 0 9.49 8 4 True True True True 20 150 
+Cymoxanil CID Group 1 199.1 50 210 0.015 80 35 20 CID 0 0 9.94 8 4 True True True True 20 150 
+Cymoxanil EAD Group 1 199.1 50 210 0.06 80 10 0 EAD 18 100 9.94 8 4 True True True True 20 150 
+Cymoxanil UVPD Group 1 199.1 50 210 0.06 80 10 0 UVPD simultaneous trapping 0 0 9.94 8 4 True True True True 20 150 
+Carbendazim CID Group 1 192.1 50 210 0.015 80 35 20 CID 0 0 10.17 8 4 True True True True 20 150 
+Carbendazim EAD Group 1 192.1 50 210 0.06 80 10 0 EAD 18 100 10.17 8 4 True True True True 20 150 
+Carbendazim UVPD Group 1 192.1 50 210 0.06 80 10 0 UVPD simultaneous trapping 0 0 10.17 8 4 True True True True 20 150 
+Thiacloprid CID Group 1 253 50 270 0.015 80 35 20 CID 0 0 10.21 8 4 True True True True 20 150 
+Thiacloprid EAD Group 1 253 50 270 0.06 80 10 0 EAD 18 100 10.21 8 4 True True True True 20 150 
+Thiacloprid UVPD Group 1 253 50 270 0.06 80 10 0 UVPD simultaneous trapping 0 0 10.21 8 4 True True True True 20 150 
+Mevinphos CID Group 1 225.1 50 250 0.015 80 35 20 CID 0 0 10.34 8 4 True True True True 20 150 
+Mevinphos EAD Group 1 225.1 50 250 0.06 80 10 0 EAD 18 100 10.34 8 4 True True True True 20 150 
+Mevinphos UVPD Group 1 225.1 50 250 0.06 80 10 0 UVPD simultaneous trapping 0 0 10.34 8 4 True True True True 20 150 
+Tricyclazole CID Group 1 190 50 210 0.015 80 35 20 CID 0 0 10.55 8 4 True True True True 20 150 
+Tricyclazole EAD Group 1 190 50 210 0.06 80 10 0 EAD 18 100 10.55 8 4 True True True True 20 150 
+Tricyclazole UVPD Group 1 190 50 210 0.06 80 10 0 UVPD simultaneous trapping 0 0 10.55 8 4 True True True True 20 150 
+Oxadixyl CID Group 1 279.1 50 290 0.015 80 35 20 CID 0 0 11.17 8 4 True True True True 20 150 
+Oxadixyl EAD Group 1 279.1 50 290 0.06 80 10 0 EAD 18 100 11.17 8 4 True True True True 20 150 
+Oxadixyl UVPD Group 1 279.1 50 290 0.06 80 10 0 UVPD simultaneous trapping 0 0 11.17 8 4 True True True True 20 150 
+Thiabendazole CID Group 1 202 50 220 0.015 80 35 20 CID 0 0 11.19 8 4 True True True True 20 150 
+Thiabendazole EAD Group 1 202 50 220 0.06 80 10 0 EAD 18 100 11.19 8 4 True True True True 20 150 
+Thiabendazole UVPD Group 1 202 50 220 0.06 80 10 0 UVPD simultaneous trapping 0 0 11.19 8 4 True True True True 20 150 
+Carbetamide CID Group 1 237.1 50 250 0.015 80 35 20 CID 0 0 11.35 8 4 True True True True 20 150 
+Carbetamide EAD Group 1 237.1 50 250 0.06 80 10 0 EAD 18 100 11.35 8 4 True True True True 20 150 
+Carbetamide UVPD Group 1 237.1 50 250 0.06 80 10 0 UVPD simultaneous trapping 0 0 11.35 8 4 True True True True 20 150 
+Fuberidazole CID Group 1 185.1 50 200 0.015 80 35 20 CID 0 0 11.55 7 4 True True True True 20 150 
+Fuberidazole EAD Group 1 185.1 50 200 0.06 80 10 0 EAD 18 100 11.55 7 4 True True True True 20 150 
+Fuberidazole UVPD Group 1 185.1 50 200 0.06 80 10 0 UVPD simultaneous trapping 0 0 11.55 7 4 True True True True 20 150 
+Thiophanate-methyl CID Group 1 343.1 50 360 0.015 80 35 20 CID 0 0 11.78 6 4 True True True True 20 150 
+Thiophanate-methyl EAD Group 1 343.1 50 360 0.06 80 10 0 EAD 18 100 11.78 6 4 True True True True 20 150 
+Thiophanate-methyl UVPD Group 1 343.1 50 360 0.06 80 10 0 UVPD simultaneous trapping 0 0 11.78 6 4 True True True True 20 150 
+Propoxur CID Group 1 210.1 50 230 0.015 80 35 20 CID 0 0 11.8 8 4 True True True True 20 150 
+Propoxur EAD Group 1 210.1 50 230 0.06 80 10 0 EAD 18 100 11.8 8 4 True True True True 20 150 
+Propoxur UVPD Group 1 210.1 50 230 0.06 80 10 0 UVPD simultaneous trapping 0 0 11.8 8 4 True True True True 20 150 
+Metribuzin CID Group 1 215.1 50 240 0.015 80 35 20 CID 0 0 11.8 8 4 True True True True 20 150 
+Metribuzin EAD Group 1 215.1 50 240 0.06 80 10 0 EAD 18 100 11.8 8 4 True True True True 20 150 
+Metribuzin UVPD Group 1 215.1 50 240 0.06 80 10 0 UVPD simultaneous trapping 0 0 11.8 8 4 True True True True 20 150 
+Aminocarb CID Group 1 209.1 50 220 0.015 80 35 20 CID 0 0 11.85 8 4 True True True True 20 150 
+Aminocarb EAD Group 1 209.1 50 220 0.06 80 10 0 EAD 18 100 11.85 8 4 True True True True 20 150 
+Aminocarb UVPD Group 1 209.1 50 220 0.06 80 10 0 UVPD simultaneous trapping 0 0 11.85 8 4 True True True True 20 150 
+Tebuthiuron CID Group 1 229.1 50 250 0.015 80 35 20 CID 0 0 12.15 8 4 True True True True 20 150 
+Tebuthiuron EAD Group 1 229.1 50 250 0.06 80 10 0 EAD 18 100 12.15 8 4 True True True True 20 150 
+Tebuthiuron UVPD Group 1 229.1 50 250 0.06 80 10 0 UVPD simultaneous trapping 0 0 12.15 8 4 True True True True 20 150 
+Sulfentrazone CID Group 1 387 50 400 0.015 80 35 20 CID 0 0 12.2 8 4 True True True True 20 150 
+Sulfentrazone EAD Group 1 387 50 400 0.06 80 10 0 EAD 18 100 12.2 8 4 True True True True 20 150 
+Sulfentrazone UVPD Group 1 387 50 400 0.06 80 10 0 UVPD simultaneous trapping 0 0 12.2 8 4 True True True True 20 150 
+Carboxin CID Group 1 236.1 50 250 0.015 80 35 20 CID 0 0 12.27 8 4 True True True True 20 150 
+Carboxin EAD Group 1 236.1 50 250 0.06 80 10 0 EAD 18 100 12.27 8 4 True True True True 20 150 
+Carboxin UVPD Group 1 236.1 50 250 0.06 80 10 0 UVPD simultaneous trapping 0 0 12.27 8 4 True True True True 20 150 
+Monolinuron CID Group 1 215.1 50 240 0.015 80 35 20 CID 0 0 12.55 8 4 True True True True 20 150 
+Monolinuron EAD Group 1 215.1 50 240 0.06 80 10 0 EAD 18 100 12.55 8 4 True True True True 20 150 
+Monolinuron UVPD Group 1 215.1 50 240 0.06 80 10 0 UVPD simultaneous trapping 0 0 12.55 8 4 True True True True 20 150 
+Fluometuron CID Group 1 233.1 50 250 0.015 80 35 20 CID 0 0 12.78 8 4 True True True True 20 150 
+Fluometuron EAD Group 1 233.1 50 250 0.06 80 10 0 EAD 18 100 12.78 8 4 True True True True 20 150 
+Fluometuron UVPD Group 1 233.1 50 250 0.06 80 10 0 UVPD simultaneous trapping 0 0 12.78 8 4 True True True True 20 150 
+Pirimicarb CID Group 1 239.2 50 260 0.015 80 35 20 CID 0 0 12.86 8 4 True True True True 20 150 
+Pirimicarb EAD Group 1 239.2 50 260 0.06 80 10 0 EAD 18 100 12.86 8 4 True True True True 20 150 
+Pirimicarb UVPD Group 1 239.2 50 260 0.06 80 10 0 UVPD simultaneous trapping 0 0 12.86 8 4 True True True True 20 150 
+Methabenzthiazuron CID Group 1 222.1 50 260 0.015 80 35 20 CID 0 0 13.04 8 4 True True True True 20 150 
+Methabenzthiazuron EAD Group 1 222.1 50 260 0.06 80 10 0 EAD 18 100 13.04 8 4 True True True True 20 150 
+Methabenzthiazuron UVPD Group 1 222.1 50 260 0.06 80 10 0 UVPD simultaneous trapping 0 0 13.04 8 4 True True True True 20 150 
+Isoprocarb CID Group 1 194.1 50 210 0.015 80 35 20 CID 0 0 13.1 8 4 True True True True 20 150 
+Isoprocarb EAD Group 1 194.1 50 210 0.06 80 10 0 EAD 18 100 13.1 8 4 True True True True 20 150 
+Isoprocarb UVPD Group 1 194.1 50 210 0.06 80 10 0 UVPD simultaneous trapping 0 0 13.1 8 4 True True True True 20 150 
+Moxidectin CID Group 1 640.4 66 660 0.015 80 35 20 CID 0 0 13.29 6 4 True True True True 20 150 
+Moxidectin EAD Group 1 640.4 66 660 0.06 80 10 0 EAD 18 100 13.29 6 4 True True True True 20 150 
+Moxidectin UVPD Group 1 640.4 66 660 0.06 80 10 0 UVPD simultaneous trapping 0 0 13.29 8 4 True True True True 20 150 
+Ethirimol CID Group 1 210.2 50 230 0.015 80 35 20 CID 0 0 13.42 8 4 True True True True 20 150 
+Ethirimol EAD Group 1 210.2 50 230 0.06 80 10 0 EAD 18 100 13.42 8 4 True True True True 20 150 
+Ethirimol UVPD Group 1 210.2 50 230 0.06 80 10 0 UVPD simultaneous trapping 0 0 13.42 8 4 True True True True 20 150 
+Cycluron CID Group 1 199.2 50 230 0.015 80 35 20 CID 0 0 13.48 8 4 True True True True 20 150 
+Cycluron EAD Group 1 199.2 50 230 0.06 80 10 0 EAD 18 100 13.48 8 4 True True True True 20 150 
+Cycluron UVPD Group 1 199.2 50 230 0.06 80 10 0 UVPD simultaneous trapping 0 0 13.48 8 4 True True True True 20 150 
+Chlorantraniliprole CID Group 1 482 50 500 0.015 80 35 20 CID 0 0 13.76 8 4 True True True True 20 150 
+Chlorantraniliprole EAD Group 1 482 50 500 0.06 80 10 0 EAD 18 100 13.76 8 4 True True True True 20 150 
+Chlorantraniliprole UVPD Group 1 482 50 500 0.06 80 10 0 UVPD simultaneous trapping 0 0 13.76 8 4 True True True True 20 150 
+Phenmedipham CID Group 1 301.1 50 320 0.015 80 35 20 CID 0 0 13.8 6 4 True True True True 20 150 
+Phenmedipham EAD Group 1 301.1 50 320 0.06 80 10 0 EAD 18 100 13.8 6 4 True True True True 20 150 
+Phenmedipham UVPD Group 1 301.1 50 320 0.06 80 10 0 UVPD simultaneous trapping 0 0 13.8 6 4 True True True True 20 150 
+Secbumeton CID Group 1 226.2 50 250 0.015 80 35 20 CID 0 0 13.96 8 4 True True True True 20 150 
+Secbumeton EAD Group 1 226.2 50 250 0.06 80 10 0 EAD 18 100 13.96 8 4 True True True True 20 150 
+Secbumeton UVPD Group 1 226.2 50 250 0.06 80 10 0 UVPD simultaneous trapping 0 0 13.96 8 4 True True True True 20 150 
+Prometon CID Group 1 226.2 50 250 0.015 80 35 20 CID 0 0 14.05 8 4 True True True True 20 150 
+Prometon EAD Group 1 226.2 50 250 0.06 80 10 0 EAD 18 100 14.05 8 4 True True True True 20 150 
+Prometon UVPD Group 1 226.2 50 250 0.06 80 10 0 UVPD simultaneous trapping 0 0 14.05 8 4 True True True True 20 150 
+Azoxystrobin CID Group 1 404.1 50 420 0.015 80 35 20 CID 0 0 14.06 8 4 True True True True 20 150 
+Azoxystrobin EAD Group 1 404.1 50 420 0.06 80 10 0 EAD 18 100 14.06 8 4 True True True True 20 150 
+Azoxystrobin UVPD Group 1 404.1 50 420 0.06 80 10 0 UVPD simultaneous trapping 0 0 14.06 8 4 True True True True 20 150 
+Acibenzolar-S-methyl CID Group 1 211 50 230 0.015 80 35 20 CID 0 0 14.22 8 4 True True True True 20 150 
+Acibenzolar-S-methyl EAD Group 1 211 50 230 0.06 80 10 0 EAD 18 100 14.22 8 4 True True True True 20 150 
+Acibenzolar-S-methyl UVPD Group 1 211 50 230 0.06 80 10 0 UVPD simultaneous trapping 0 0 14.22 8 4 True True True True 20 150 
+Methiocarb CID Group 1 226.1 50 250 0.015 80 35 20 CID 0 0 14.31 6 4 True True True True 20 150 
+Methiocarb EAD Group 1 226.1 50 250 0.06 80 10 0 EAD 18 100 14.31 6 4 True True True True 20 150 
+Methiocarb UVPD Group 1 226.1 50 250 0.06 80 10 0 UVPD simultaneous trapping 0 0 14.31 6 4 True True True True 20 150 
+Siduron CID Group 1 233.2 50 250 0.015 80 35 20 CID 0 0 14.32 7 4 True True True True 20 150 
+Siduron EAD Group 1 233.2 50 250 0.06 80 10 0 EAD 18 100 14.32 7 4 True True True True 20 150 
+Siduron UVPD Group 1 233.2 50 250 0.06 80 10 0 UVPD simultaneous trapping 0 0 14.32 7 4 True True True True 20 150 
+Fenamidone CID Group 1 312.1 50 330 0.015 80 35 20 CID 0 0 14.34 8 4 True True True True 20 150 
+Fenamidone EAD Group 1 312.1 50 330 0.06 80 10 0 EAD 18 100 14.34 8 4 True True True True 20 150 
+Fenamidone UVPD Group 1 312.1 50 330 0.06 80 10 0 UVPD simultaneous trapping 0 0 14.34 8 4 True True True True 20 150 
+Dimethomorph CID Group 1 388.1 50 410 0.015 80 35 20 CID 0 0 14.62 8 4 True True True True 20 150 
+Dimethomorph EAD Group 1 388.1 50 410 0.06 80 10 0 EAD 18 100 14.62 8 4 True True True True 20 150 
+Dimethomorph UVPD Group 1 388.1 50 410 0.06 80 10 0 UVPD simultaneous trapping 0 0 14.62 8 4 True True True True 20 150 
+Flutolanil CID Group 1 324.1 50 350 0.015 80 35 20 CID 0 0 14.64 8 4 True True True True 20 150 
+Flutolanil EAD Group 1 324.1 50 350 0.06 80 10 0 EAD 18 100 14.64 8 4 True True True True 20 150 
+Flutolanil UVPD Group 1 324.1 50 350 0.06 80 10 0 UVPD simultaneous trapping 0 0 14.64 8 4 True True True True 20 150 
+Mepronil CID Group 1 270.1 50 290 0.015 80 35 20 CID 0 0 14.72 8 4 True True True True 20 150 
+Mepronil EAD Group 1 270.1 50 290 0.06 80 10 0 EAD 18 100 14.72 8 4 True True True True 20 150 
+Mepronil UVPD Group 1 270.1 50 290 0.06 80 10 0 UVPD simultaneous trapping 0 0 14.72 8 4 True True True True 20 150 
+Methoxyfenozide CID Group 1 369.2 50 390 0.015 80 35 20 CID 0 0 14.74 8 4 True True True True 20 150 
+Methoxyfenozide EAD Group 1 369.2 50 390 0.06 80 10 0 EAD 18 100 14.74 8 4 True True True True 20 150 
+Methoxyfenozide UVPD Group 1 369.2 50 390 0.06 80 10 0 UVPD simultaneous trapping 0 0 14.74 8 4 True True True True 20 150 
+Fluoxastrobin CID Group 1 459.1 50 480 0.015 80 35 20 CID 0 0 15.02 7 4 True True True True 20 150 
+Fluoxastrobin EAD Group 1 459.1 50 480 0.06 80 10 0 EAD 18 100 15.02 7 4 True True True True 20 150 
+Fluoxastrobin UVPD Group 1 459.1 50 480 0.06 80 10 0 UVPD simultaneous trapping 0 0 15.02 7 4 True True True True 20 150 
+Fluquinconazole CID Group 1 376 50 400 0.015 80 35 20 CID 0 0 15.04 7 4 True True True True 20 150 
+Fluquinconazole EAD Group 1 376 50 400 0.06 80 10 0 EAD 18 100 15.04 7 4 True True True True 20 150 
+Fluquinconazole UVPD Group 1 376 50 400 0.06 80 10 0 UVPD simultaneous trapping 0 0 15.04 7 4 True True True True 20 150 
+Iprovalicarb CID Group 1 321.2 50 340 0.015 80 35 20 CID 0 0 15.06 6 4 True True True True 20 150 
+Iprovalicarb EAD Group 1 321.2 50 340 0.06 80 10 0 EAD 18 100 15.06 6 4 True True True True 20 150 
+Iprovalicarb UVPD Group 1 321.2 50 340 0.06 80 10 0 UVPD simultaneous trapping 0 0 15.06 6 4 True True True True 20 150 
+Spiroxamine CID Group 1 298.3 50 320 0.015 80 35 20 CID 0 0 15.27 8 4 True True True True 20 150 
+Spiroxamine EAD Group 1 298.3 50 320 0.06 80 10 0 EAD 18 100 15.27 8 4 True True True True 20 150 
+Spiroxamine UVPD Group 1 298.3 50 320 0.06 80 10 0 UVPD simultaneous trapping 0 0 15.27 8 4 True True True True 20 150 
+Epoxiconazole CID Group 1 330.1 50 320 0.015 80 35 20 CID 0 0 15.28 7 4 True True True True 20 150 
+Epoxiconazole EAD Group 1 330.1 50 320 0.06 80 10 0 EAD 18 100 15.28 7 4 True True True True 20 150 
+Epoxiconazole UVPD Group 1 330.1 50 320 0.06 80 10 0 UVPD simultaneous trapping 0 0 15.28 7 4 True True True True 20 150 
+Cyazofamid CID Group 1 325.1 50 350 0.015 80 35 20 CID 0 0 15.34 8 4 True True True True 20 150 
+Cyazofamid EAD Group 1 325.1 50 350 0.06 80 10 0 EAD 18 100 15.34 8 4 True True True True 20 150 
+Cyazofamid UVPD Group 1 325.1 50 350 0.06 80 10 0 UVPD simultaneous trapping 0 0 15.34 8 4 True True True True 20 150 
+Fenoxycarb CID Group 1 302.1 50 320 0.015 80 35 20 CID 0 0 15.6 8 4 True True True True 20 150 
+Fenoxycarb EAD Group 1 302.1 50 320 0.06 80 10 0 EAD 18 100 15.6 8 4 True True True True 20 150 
+Fenoxycarb UVPD Group 1 302.1 50 320 0.06 80 10 0 UVPD simultaneous trapping 0 0 15.6 8 4 True True True True 20 150 
+Picoxystrobin CID Group 1 368.1 50 390 0.015 80 35 20 CID 0 0 15.6 8 4 True True True True 20 150 
+Picoxystrobin EAD Group 1 368.1 50 390 0.06 80 10 0 EAD 18 100 15.6 8 4 True True True True 20 150 
+Picoxystrobin UVPD Group 1 368.1 50 390 0.06 80 10 0 UVPD simultaneous trapping 0 0 15.6 8 4 True True True True 20 150 
+Bupirimate CID Group 1 317.2 50 340 0.015 80 35 20 CID 0 0 15.62 8 4 True True True True 20 150 
+Bupirimate EAD Group 1 317.2 50 340 0.06 80 10 0 EAD 18 100 15.62 8 4 True True True True 20 150 
+Bupirimate UVPD Group 1 317.2 50 340 0.06 80 10 0 UVPD simultaneous trapping 0 0 15.62 8 4 True True True True 20 150 
+Tebufenozide CID Group 1 353.2 50 370 0.015 80 35 20 CID 0 0 15.63 8 4 True True True True 20 150 
+Tebufenozide EAD Group 1 353.2 50 370 0.06 80 10 0 EAD 18 100 15.63 8 4 True True True True 20 150 
+Tebufenozide UVPD Group 1 353.2 50 370 0.06 80 10 0 UVPD simultaneous trapping 0 0 15.63 8 4 True True True True 20 150 
+Penconazole CID Group 1 284.1 50 300 0.015 80 35 20 CID 0 0 15.88 8 4 True True True True 20 150 
+Penconazole EAD Group 1 284.1 50 300 0.06 80 10 0 EAD 18 100 15.88 8 4 True True True True 20 150 
+Penconazole UVPD Group 1 284.1 50 300 0.06 80 10 0 UVPD simultaneous trapping 0 0 15.88 8 4 True True True True 20 150 
+Tebuconazole CID Group 1 308.2 50 330 0.015 80 35 20 CID 0 0 15.92 8 4 True True True True 20 150 
+Tebuconazole EAD Group 1 308.2 50 330 0.06 80 10 0 EAD 18 100 15.92 8 4 True True True True 20 150 
+Tebuconazole UVPD Group 1 308.2 50 330 0.06 80 10 0 UVPD simultaneous trapping 0 0 15.92 8 4 True True True True 20 150 
+Cyprodinil CID Group 1 226.1 50 250 0.015 80 35 20 CID 0 0 15.96 8 4 True True True True 20 150 
+Cyprodinil EAD Group 1 226.1 50 250 0.06 80 10 0 EAD 18 100 15.96 8 4 True True True True 20 150 
+Cyprodinil UVPD Group 1 226.1 50 250 0.06 80 10 0 UVPD simultaneous trapping 0 0 15.96 8 4 True True True True 20 150 
+Pyraclostrobin CID Group 1 388.1 50 410 0.015 80 35 20 CID 0 0 16.17 8 4 True True True True 20 150 
+Pyraclostrobin EAD Group 1 388.1 50 410 0.06 80 10 0 EAD 18 100 16.17 8 4 True True True True 20 150 
+Pyraclostrobin UVPD Group 1 388.1 50 410 0.06 80 10 0 UVPD simultaneous trapping 0 0 16.17 8 4 True True True True 20 150 
+Hexaconazole CID Group 1 314.1 50 340 0.015 80 35 20 CID 0 0 16.25 8 4 True True True True 20 150 
+Hexaconazole EAD Group 1 314.1 50 340 0.06 80 10 0 EAD 18 100 16.25 8 4 True True True True 20 150 
+Hexaconazole UVPD Group 1 314.1 50 340 0.06 80 10 0 UVPD simultaneous trapping 0 0 16.25 8 4 True True True True 20 150 
+Metconazole CID Group 1 320.2 50 330 0.015 80 35 20 CID 0 0 16.25 8 4 True True True True 20 150 
+Metconazole EAD Group 1 320.2 50 330 0.06 80 10 0 EAD 18 100 16.25 8 4 True True True True 20 150 
+Metconazole UVPD Group 1 320.2 50 330 0.06 80 10 0 UVPD simultaneous trapping 0 0 16.25 8 4 True True True True 20 150 
+Triflumuron CID Group 1 359 50 380 0.015 80 35 20 CID 0 0 16.27 8 4 True True True True 20 150 
+Triflumuron EAD Group 1 359 50 380 0.06 80 10 0 EAD 18 100 16.27 8 4 True True True True 20 150 
+Triflumuron UVPD Group 1 359 50 380 0.06 80 10 0 UVPD simultaneous trapping 0 0 16.27 8 4 True True True True 20 150 
+Diniconazole CID Group 1 326.1 50 350 0.015 80 35 20 CID 0 0 16.54 8 4 True True True True 20 150 
+Diniconazole EAD Group 1 326.1 50 350 0.06 80 10 0 EAD 18 100 16.54 8 4 True True True True 20 150 
+Diniconazole UVPD Group 1 326.1 50 350 0.06 80 10 0 UVPD simultaneous trapping 0 0 16.54 8 4 True True True True 20 150 
+Indoxacarb CID Group 1 528.1 55 550 0.015 80 35 20 CID 0 0 16.65 8 4 True True True True 20 150 
+Indoxacarb EAD Group 1 528.1 55 550 0.06 80 10 0 EAD 18 100 16.65 8 4 True True True True 20 150 
+Indoxacarb UVPD Group 1 528.1 55 550 0.06 80 10 0 UVPD simultaneous trapping 0 0 16.65 8 4 True True True True 20 150 
+Trifloxystrobin CID Group 1 409.1 50 430 0.015 80 35 20 CID 0 0 16.71 8 4 True True True True 20 150 
+Trifloxystrobin EAD Group 1 409.1 50 430 0.06 80 10 0 EAD 18 100 16.71 8 4 True True True True 20 150 
+Trifloxystrobin UVPD Group 1 409.1 50 430 0.06 80 10 0 UVPD simultaneous trapping 0 0 16.71 8 4 True True True True 20 150 
+Hexaflumuron CID Group 1 461 50 480 0.015 80 35 20 CID 0 0 16.76 8 4 True True True True 20 150 
+Hexaflumuron EAD Group 1 461 50 480 0.06 80 10 0 EAD 18 100 16.76 8 4 True True True True 20 150 
+Hexaflumuron UVPD Group 1 461 50 480 0.06 80 10 0 UVPD simultaneous trapping 0 0 16.76 8 4 True True True True 20 150 
+Benfuracarb CID Group 1 411.2 50 430 0.015 80 35 20 CID 0 0 17.04 8 4 True True True True 20 150 
+Benfuracarb EAD Group 1 411.2 50 430 0.06 80 10 0 EAD 18 100 17.04 8 4 True True True True 20 150 
+Benfuracarb UVPD Group 1 411.2 50 430 0.06 80 10 0 UVPD simultaneous trapping 0 0 17.04 8 4 True True True True 20 150 
+Emamectin-benzoate (B1b) CID Group 1 872.5 89 890 0.015 80 35 20 CID 0 0 17.08 8 4 True True True True 20 150 
+Emamectin-benzoate (B1b) EAD Group 1 872.5 89 890 0.06 80 10 0 EAD 18 100 17.08 8 4 True True True True 20 150 
+Emamectin-benzoate (B1b) UVPD Group 1 872.5 89 890 0.06 80 10 0 UVPD simultaneous trapping 0 0 17.08 8 4 True True True True 20 150 
+Furathiocarb CID Group 1 383.2 50 400 0.015 80 35 20 CID 0 0 17.18 7 4 True True True True 20 150 
+Furathiocarb EAD Group 1 383.2 50 400 0.06 80 10 0 EAD 18 100 17.18 7 4 True True True True 20 150 
+Furathiocarb UVPD Group 1 383.2 50 400 0.06 80 10 0 UVPD simultaneous trapping 0 0 17.18 7 4 True True True True 20 150 
+Lufenuron CID Group 1 511 53 530 0.015 80 35 20 CID 0 0 17.42 6 4 True True True True 20 150 
+Lufenuron EAD Group 1 511 53 530 0.06 80 10 0 EAD 18 100 17.42 6 4 True True True True 20 150 
+Lufenuron UVPD Group 1 511 53 530 0.06 80 10 0 UVPD simultaneous trapping 0 0 17.42 6 4 True True True True 20 150 
+Pyriproxyfen CID Group 1 322.1 50 340 0.015 80 35 20 CID 0 0 17.48 8 4 True True True True 20 150 
+Pyriproxyfen EAD Group 1 322.1 50 340 0.06 80 10 0 EAD 18 100 17.48 8 4 True True True True 20 150 
+Pyriproxyfen UVPD Group 1 322.1 50 340 0.06 80 10 0 UVPD simultaneous trapping 0 0 17.48 8 4 True True True True 20 150 
+Quinoxyfen CID Group 1 308 50 330 0.015 80 35 20 CID 0 0 17.6 8 4 True True True True 20 150 
+Quinoxyfen EAD Group 1 308 50 330 0.06 80 10 0 EAD 18 100 17.6 8 4 True True True True 20 150 
+Quinoxyfen UVPD Group 1 308 50 330 0.06 80 10 0 UVPD simultaneous trapping 0 0 17.6 8 4 True True True True 20 150 
+Spinosad CID Group 1 732.5 75 750 0.015 80 35 20 CID 0 0 17.86 8 4 True True True True 20 150 
+Spinosad EAD Group 1 732.5 75 750 0.06 80 10 0 EAD 18 100 17.86 8 4 True True True True 20 150 
+Spinosad UVPD Group 1 732.5 75 750 0.06 80 10 0 UVPD simultaneous trapping 0 0 17.86 8 4 True True True True 20 150 
+Etoxazole CID Group 1 360.2 50 380 0.015 80 35 20 CID 0 0 17.86 8 4 True True True True 20 150 
+Etoxazole EAD Group 1 360.2 50 380 0.06 80 10 0 EAD 18 100 17.86 8 4 True True True True 20 150 
+Etoxazole UVPD Group 1 360.2 50 380 0.06 80 10 0 UVPD simultaneous trapping 0 0 17.86 8 4 True True True True 20 150 
+Fenpyroximate CID Group 1 422.2 50 450 0.015 80 35 20 CID 0 0 18.05 7 4 True True True True 20 150 
+Fenpyroximate EAD Group 1 422.2 50 450 0.06 80 10 0 EAD 18 100 18.05 7 4 True True True True 20 150 
+Fenpyroximate UVPD Group 1 422.2 50 450 0.06 80 10 0 UVPD simultaneous trapping 0 0 18.05 7 4 True True True True 20 150 
+Spirodiclofen CID Group 1 411.1 50 430 0.015 80 35 20 CID 0 0 18.12 8 4 True True True True 20 150 
+Spirodiclofen EAD Group 1 411.1 50 430 0.06 80 10 0 EAD 18 100 18.12 8 4 True True True True 20 150 
+Spirodiclofen UVPD Group 1 411.1 50 430 0.06 80 10 0 UVPD simultaneous trapping 0 0 18.12 8 4 True True True True 20 150 
+Spinetoram CID Group 1 748.5 77 770 0.015 80 35 20 CID 0 0 18.3 8 4 True True True True 20 150 
+Spinetoram EAD Group 1 748.5 77 770 0.06 80 10 0 EAD 18 100 18.3 8 4 True True True True 20 150 
+Spinetoram UVPD Group 1 748.5 77 770 0.06 80 10 0 UVPD simultaneous trapping 0 0 18.3 8 4 True True True True 20 150 
+Amitraz CID Group 1 294.2 50 320 0.015 80 35 20 CID 0 0 18.31 8 4 True True True True 20 150 
+Amitraz EAD Group 1 294.2 50 320 0.06 80 10 0 EAD 18 100 18.31 8 4 True True True True 20 150 
+Amitraz UVPD Group 1 294.2 50 320 0.06 80 10 0 UVPD simultaneous trapping 0 0 18.31 8 4 True True True True 20 150 
+Eprinomectin (B1a) CID Group 1 914.5 94 940 0.015 80 35 20 CID 0 0 18.38 8 4 True True True True 20 150 
+Eprinomectin (B1a) EAD Group 1 914.5 94 940 0.06 80 10 0 EAD 18 100 18.38 8 4 True True True True 20 150 
+Eprinomectin (B1a) UVPD Group 1 914.5 94 940 0.06 80 10 0 UVPD simultaneous trapping 0 0 18.38 8 4 True True True True 20 150 
+Fenpropimorph CID Group 1 304.3 50 320 0.015 80 35 20 CID 0 0 18.72 8 4 True True True True 20 150 
+Fenpropimorph EAD Group 1 304.3 50 320 0.06 80 10 0 EAD 18 100 18.72 8 4 True True True True 20 150 
+Fenpropimorph UVPD Group 1 304.3 50 320 0.06 80 10 0 UVPD simultaneous trapping 0 0 18.72 8 4 True True True True 20 150 
+Doramectin CID Group 1 899.5 92 920 0.015 80 35 20 CID 0 0 19.1 8 4 True True True True 20 150 
+Doramectin EAD Group 1 899.5 92 920 0.06 80 10 0 EAD 18 100 19.1 8 4 True True True True 20 150 
+Doramectin UVPD Group 1 899.5 92 920 0.06 80 10 0 UVPD simultaneous trapping 0 0 19.1 8 4 True True True True 20 150 
+
+Experiment 290
+IDA Survey:  
+Scan type: TOFMS 
+Polarity: Positive 
+Spray voltage (V): 5500 
+TOF start mass (Da): 50 
+TOF stop mass (Da): 1000 
+Accumulation time (s): 0.005 
+Declustering potential (V): 80 
+Declustering potential spread (V): 0 
+Collision energy (V): 10 
+Collision energy spread (V): 0 
+Time bins to sum: 4 
+Channel 1: True 
+Channel 2: True 
+Channel 3: True 
+Channel 4: True 
+Override QJet RF value: False 
+QJet RF amplitude (V): 183.248399396665 
+IDA Criteria:  
+Workflow: Small molecule 
+Maximum candidates ion: 1 
+Intensity threshold exceeds (counts/s): 1000000 
+Dynamic Background Subtract: True 
+Exclude former candidate ions: False 
+Dynamic CE for MS/MS: False 
+Dynamic ETC for MS/MS: False 
+Charge state: False 
+Isotope to select: Monoisotopic 
+Advanced IDA criteria:  
+ExcludeIsotope: False 
+Mass tolerance +/- (mDa): 50 
+Candidate mass range: False 
+Adjust CE when using iTRAQ reagent: False 
+Inclusion list: False 
+Exclusion list: False 
+Mass Defect Filter: False 
+Isotope Matching: False 
+Neutral Loss: False 
+IDA Dependent:  
+Scan type: TOFMSMS 
+Polarity: Positive 
+Spray voltage (V): 5500 
+Fragmentation mode: EAD 
+TOF start mass (Da): 50 
+TOF stop mass (Da): 1000 
+Accumulation time (s): 0.005 
+Declustering potential (V): 80 
+Declustering potential spread (V): 0 
+Collision energy (V): 10 
+Collision energy spread (V): 0 
+Q1 resolution: Unit 
+Zeno pulsing: False 
+Electron beam current (nA): 3500 
+Electron KE (eV): 18 
+ETC: 100 
+EAD RF (Da): 150 
+Reaction time (ms): 5 
+Zeno threshold (cps): 20000 
+Time bins to sum: 4 
+Channel 1: True 
+Channel 2: True 
+Channel 3: True 
+Channel 4: True 
+Override QJet RF value: False 
+QJet RF amplitude (V): 202.72 
+
+Initial Instrument Tables and Parameters
+General
+Detector high voltage (V): 2206 
+
+Q1 Calibration Table
+Resolution: Unit 
+Polarity: Positive 
+Masses Dac values 
+132.9049 7075 
+266.1598 14176 
+354.2122 18867 
+442.2647 23559 
+609.2807 32457 
+829.5393 44190 
+961.437 51217 
+1446.732 77072 
+2035.625 108446 
+
+Q1 Resolution Table
+Resolution: Unit 
+Polarity: Positive 
+Ion Energy (V): 1 
+Masses Offset Values 
+132.9049 7579376 
+266.1598 7615140.5 
+354.2122 7624282 
+442.2647 7629924 
+609.2807 7636626 
+829.5393 7640465 
+961.437 7641964 
+1446.732 7644821 
+2035.625 7646788 
+
+TOF Mass Calibration Parameters
+Polarity: Positive 
+TOFMS calibration slope: 0.000489786613862498 
+TOFMS calibration delay (nsec): -12.9826808059636 
+TOFMSMS calibration slope: 0.000489787266100479 
+TOFMSMS calibration delay (nsec): -12.9239070321905 
+TOFMSMS (Zeno) calibration slope: 0.000489788508590387 
+TOFMSMS (Zeno) calibration delay (nsec): -12.8875593381383 
+Polarity: Negative 
+TOFMS calibration slope: 0.000489724068844688 
+TOFMS calibration delay (nsec): -12.9001825836252 
+TOFMSMS calibration slope: 0.000489722683552451 
+TOFMSMS calibration delay (nsec): -12.993488714203 
+TOFMSMS (Zeno) calibration slope: 0.000489722785927406 
+TOFMSMS (Zeno) calibration delay (nsec): -12.9709802499255 
+
+Device Parameters for Integrated System Shimadzu Nexera Prominence LC
+LC Device Status: Start of Acquisition
+Quaternary Gradient LC-30AD:  
+Time from start: 00:00:00 
+Pump A Pressure (bar): 242.48 
+Pump A Degas Pressure (bar): -94.49 
+
+LC Device Status: End of Acquisition
+Quaternary Gradient LC-30AD:  
+Time from start: 00:26:20 
+Pump A Pressure (bar): 242.86 
+Pump A Degas Pressure (bar): -94.49 
+
+Configuration and Method Parameters
+Injection Volume
+Injection Volume: -1 
+
+Quaternary Gradient - Config - General - Solenoid valve
+Valve type: LPGE Unit 
+Serial number:  
+Unit ID:  
+Solvent Blending: No 
+
+Quaternary Gradient - Config - General - System check settings
+Total delivered volume L&R: 30 L 
+
+Quaternary Gradient - Config - General
+Type: Quaternary gradient 
+Model: LC-30AD 
+Port: A 
+Serial number: L20554970756 
+ROM version: 3.00 
+Unit ID:  
+
+Quaternary Gradient - Method - General
+Stop time: 25.00 min 
+Flow: 0.3000 mL/min 
+Pressure limits Maximum: 800 bar 
+Pressure limits Minimum: 0 bar 
+B.Conc: 5.0 % 
+C.Conc: 0.0 % 
+D.Conc: 0.0 % 
+B.Curve: 0 
+C.Curve: 0 
+D.Curve: 0 
+
+Quaternary Gradient - Method - Gradient - Gradient - Table
+
+Time [min] Flow [mL/min] B.Conc [%] C.Conc [%] D.Conc [%] B.Curve C.Curve D.Curve 
+0.00 0.3000 5.0 0.0 0.0 0 0 0 
+0.01 0.3000 5.0 0.0 0.0 0 0 0 
+1.00 0.3000 5.0 0.0 0.0 0 0 0 
+15.00 0.3000 95.0 0.0 0.0 0 0 0 
+16.50 0.3000 95.0 0.0 0.0 0 0 0 
+16.80 0.3000 5.0 0.0 0.0 0 0 0 
+25.00 0.3000 5.0 0.0 0.0 0 0 0 
+
+Quaternary Gradient - Method - Solenoid valve - Solenoid valve A - Table
+
+Valve type Solenoid valve A position 
+LPGE Unit A 
+
+Quaternary Gradient - Method - Compressibility settings
+Compressibility settings: No 
+
+System Controller - Config - General
+Model: CBM-20Alite 
+Serial number: L20225116325 
+ROM version: 2.40 
+Unit ID:  
+System protection: No 
+Fire start relay on: All runs 
+System P.Max mode: AUTO 
+System P.Max auto value: 0 bar 
+Relay 1: Start 
+Relay 2: Stop 
+
+System Controller - Config - System settings
+IP Address: 10.194.60.18 
+Fast LC: No 
+Pressure unit: bar 
+
+System Controller - Method - External output settings
+Event 1: No 
+Event 2: No 
